@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "c57ec4acbe537e1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e788b0df79d96dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ownership of Emotions.md",
+            "mode": "source"
+          }
+        },
+        "group": "078c12dfe7729812"
+      },
+      {
+        "id": "a5372a777cef0840",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Ownership of Emotions.md",
+            "options": {
+              "search": "",
+              "localJumps": 5,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1
+            }
+          }
+        },
+        "group": "078c12dfe7729812"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "526c7ff223347d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b856d2ee7d99a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d48caa50bfd7b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3dc0e30b29a69edb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e013cd4ae9ba71d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b1b311ac42bdf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc61fa1fcb213a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ownership of Emotions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Ownership of Emotions.md"
+  ]
+}

@@ -1,0 +1,3 @@
+Many people fall into the trap of seeing thier lives as reactionary. This is almost certaintly due to mass enforcement of [[Learned Helplessness]] at schools. I don't actually know how to fix this. Reading [[hpmor]] has been extremely valuable in stirring a feeling of hope and deep yearning to make the world a better place in a few people I know. 
+
+How we will be measured may be able to serve the function of inspiring people without having the read the entirety of hpmor.
